@@ -1,8 +1,8 @@
-# Real Time Sudoku Solver
+
 
 <div>
     <a href="https://www.loom.com/share/ef452960b65140339ad150bd0abcb57e">
-      <p>Loom Message - 26 September 2023 - Watch Video</p>
+      <p>Real Time Sudoku Solver</p>
     </a>
     <a href="https://www.loom.com/share/ef452960b65140339ad150bd0abcb57e">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ef452960b65140339ad150bd0abcb57e-with-play.gif">
