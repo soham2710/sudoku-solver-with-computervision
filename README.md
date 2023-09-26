@@ -1,8 +1,13 @@
 # Real Time Sudoku Solver
 
-<p align="center">
-  <img src="https://screenrec.com/share/fkuwXSn2UP" width="500" height="350" />
-</p>
+<div>
+    <a href="https://www.loom.com/share/ef452960b65140339ad150bd0abcb57e">
+      <p>Loom Message - 26 September 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/ef452960b65140339ad150bd0abcb57e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ef452960b65140339ad150bd0abcb57e-with-play.gif">
+    </a>
+  </div>
 
 
 ## Overview
