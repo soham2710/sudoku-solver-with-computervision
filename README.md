@@ -1,7 +1,7 @@
 # Real Time Sudoku Solver
 
 <p align="center">
-  <img src="[Screen Recording](https://screenrec.com/share/fkuwXSn2UP)" width="500" height="350" />
+  <img src="https://screenrec.com/share/fkuwXSn2UP" width="500" height="350" />
 </p>
 
 
@@ -26,7 +26,7 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
 </details>
 
 <p align="center">
-  <img src="[Original Image](https://github.com/soham2710/sudoku-solver-with-computervision/blob/main/Images/original.png)" width="300" height="250" />
+  <img src="https://github.com/soham2710/sudoku-solver-with-computervision/blob/main/Images/original.png" width="300" height="250" />
 </p>
 
 <details>
@@ -42,8 +42,8 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
  </details>
  
  <p align="center">
-  <img src="[P-Window](https://github.com/soham2710/sudoku-solver-with-computervision/blob/main/Images/p-window.png)" width="300" height="300" />
-  <img src="[Invert](https://github.com/soham2710/sudoku-solver-with-computervision/blob/main/Images/invert%20image.png)" width="300" height="300" />
+  <img src="https://github.com/soham2710/sudoku-solver-with-computervision/blob/main/Images/p-window.png" width="300" height="300" />
+  <img src="https://github.com/soham2710/sudoku-solver-with-computervision/blob/main/Images/invert%20image.png" width="300" height="300" />
 </p>
 
 <details>
@@ -58,7 +58,7 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
 <i>(Click on the points to expand)</i>
 <details>
 <summary><b>Solution and Final Result</b></summary>
-<p>To solve Sudoku, backtracking has been used. Sudoku Backtracking is a recursive algorithm which goes through each cells and sequentially assigns numbers from 1 to 9 if the cell is empty. Notebook for the same can be viewed <a href="https://github.com/prishitakadam/Real-Time-Sudoku-Solver/blob/master/sudokosolver.ipynb">here</a>.</p>
+<p>To solve Sudoku, backtracking has been used. Sudoku Backtracking is a recursive algorithm which goes through each cells and sequentially assigns numbers from 1 to 9 if the cell is empty. Notebook for the same can be viewed <a href="https://github.com/soham2710/sudoku-solver-with-computervision/tree/main">here</a>.</p>
   <p>To display the result use <i>cv2.putText</i>.</p>
 </details>
 
